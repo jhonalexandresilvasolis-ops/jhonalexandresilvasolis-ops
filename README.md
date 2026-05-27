@@ -16,7 +16,7 @@
 
 ## 👋 Hola, soy Jhon
 
-Soy desarrollador web en crecimiento, con base en Uruguay 🇺🇾.  
+Soy desarrollador web en crecimiento, con base en Uruguay.  
 Me enfoco en construir **interfaces web limpias y responsivas**, y en usar **Python para automatizar procesos** que resuelven problemas concretos.
 
 Todavía estoy creciendo, pero ya construyo cosas reales.
@@ -25,8 +25,7 @@ Todavía estoy creciendo, pero ya construyo cosas reales.
 jhon = {
     "actualmente":  "Aprendiendo y construyendo al mismo tiempo",
     "enfoque":      ["Interfaces web", "Python para automatizar", "Proyectos reales"],
-    "filosofia":    "Código que funciona > código que impresiona",
-    "ubicación":    "Uruguay 🇺🇾"
+    "ubicación":    "Uruguay "
 }
 ```
 
@@ -57,13 +56,21 @@ jhon = {
 
 ---
 
-## 🔨 Lo que he construido
+## 🔨 Lo que estoy construyendo
 
-> *No tengo proyectos públicos todavía, pero sí tengo experiencia real.*
+### 📒 Konta *(en desarrollo)*
 
-Un ejemplo concreto: desarrollé un **software contable** que permite registrar movimientos y genera automáticamente el **informe financiero** — desde la interfaz hasta el procesamiento de datos con Python.
+Software contable que busca generar **informes automáticos del patrimonio e información financiera** una vez que el usuario registra sus operaciones en el libro diario. La idea es que el trabajo tedioso de los cálculos y razonamiento de los datos lo haga la app, no la persona.
 
-Proyectos así me enseñaron que el mejor código es el que alguien más puede realmente usar.
+<div align="center">
+
+<a href="https://github.com/jhonalexandresilvasolis-ops/Konta">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonalexandresilvasolis-ops&amp;repo=Konta&amp;theme=midnight-purple&amp;hide_border=true" alt="Konta repo card" />
+</a>
+
+</div>
+
+> 🚧 En construcción activa — cada commit es un paso más hacia la versión final.
 
 ---
 
@@ -83,6 +90,5 @@ Proyectos así me enseñaron que el mejor código es el que alguien más puede r
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
 
-*"No necesito saberlo todo. Necesito saber suficiente para construir lo que hace falta."*
 
 </div>
