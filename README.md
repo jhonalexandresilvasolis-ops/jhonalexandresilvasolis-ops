@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Jhon%20Silva&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Desarrollador%20Web%20%26%20Python&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Jhon%20Silva&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Desarrollador%20Web%20y%20Python&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Construyo+cosas+reales+mientras+sigo+aprendiendo.;Interfaces+web+limpias+y+responsivas.;Python+para+automatizar+y+resolver+problemas.;Cada+proyecto%2C+una+l%C3%ADnea+m%C3%A1s+de+experiencia." alt="Typing SVG" />
