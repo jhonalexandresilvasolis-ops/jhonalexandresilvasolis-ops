@@ -16,7 +16,7 @@
 
 ## 👋 Hola, soy Jhon
 
-Soy desarrollador web en crecimiento, con base en Uruguay.  
+Soy desarrollador web en crecimiento, con base en Uruguay .  
 Me enfoco en construir **interfaces web limpias y responsivas**, y en usar **Python para automatizar procesos** que resuelven problemas concretos.
 
 Todavía estoy creciendo, pero ya construyo cosas reales.
@@ -25,7 +25,7 @@ Todavía estoy creciendo, pero ya construyo cosas reales.
 jhon = {
     "actualmente":  "Aprendiendo y construyendo al mismo tiempo",
     "enfoque":      ["Interfaces web", "Python para automatizar", "Proyectos reales"],
-    "ubicación":    "Uruguay "
+    "ubicación":    "Uruguay"
 }
 ```
 
@@ -60,12 +60,12 @@ jhon = {
 
 ### 📒 Konta *(en desarrollo)*
 
-Software contable que busca generar **informes automáticos del patrimonio e información financiera** una vez que el usuario registra sus operaciones en el libro diario. La idea es que el trabajo tedioso de los cálculos y razonamiento de los datos lo haga la app, no la persona.
+Software contable que busca generar **informes automáticos del patrimonio e información financiera** una vez que el usuario registra sus operaciones en el libro diario. La idea es que el trabajo tedioso de los cálculos lo haga la app, no la persona.
 
 <div align="center">
 
 <a href="https://github.com/jhonalexandresilvasolis-ops/Konta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonalexandresilvasolis-ops&amp;repo=Konta&amp;theme=midnight-purple&amp;hide_border=true" alt="Konta repo card" />
+  <img src="https://img.shields.io/badge/Ver%20repositorio-Konta-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Konta en GitHub" />
 </a>
 
 </div>
@@ -78,9 +78,7 @@ Software contable que busca generar **informes automáticos del patrimonio e inf
 
 <div align="center">
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=jhonalexandresilvasolis-ops&amp;show_icons=true&amp;theme=midnight-purple&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;hide=stars" />
-&nbsp;
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonalexandresilvasolis-ops&amp;layout=compact&amp;theme=midnight-purple&amp;hide_border=true&amp;langs_count=4" />
+<img src="https://streak-stats.demolab.com?user=jhonalexandresilvasolis-ops&amp;theme=midnight-purple&amp;hide_border=true&amp;locale=es&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -89,6 +87,5 @@ Software contable que busca generar **informes automáticos del patrimonio e inf
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
-
 
 </div>
