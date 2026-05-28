@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Jhon%20Silva&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Desarrollador%20Web%20y%20Python&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jhon%20Silva&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Web%20y%20Python&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Construyo+cosas+reales+mientras+sigo+aprendiendo.;Interfaces+web+limpias+y+responsivas.;Python+para+automatizar+y+resolver+problemas.;Cada+proyecto%2C+una+l%C3%ADnea+m%C3%A1s+de+experiencia." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Construyo+cosas+reales+mientras+sigo+aprendiendo.;Interfaces+web+limpias+y+responsivas.;Python+para+automatizar+y+resolver+problemas.;Cada+proyecto%2C+una+l%C3%ADnea+m%C3%A1s+de+experiencia." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jhonalexandresilvasolis-ops&amp;label=Visitas+al+perfil&amp;color=7c3aed&amp;style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=jhonalexandresilvasolis-ops&label=Visitas+al+perfil&color=7c3aed&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -35,12 +35,12 @@ jhon = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 </div>
 
@@ -67,15 +67,31 @@ Incluye: carrusel de propuestas educativas, múltiples secciones de contenido, m
 <div align="center">
 
 <a href="https://utu-rocha.netlify.app">
-  <img src="https://img.shields.io/badge/🆕%20Sitio%20nuevo-utu--rocha.netlify.app-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Ver sitio nuevo" />
+  <img src="https://img.shields.io/badge/🆕%20Sitio%20nuevo-utu--rocha.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Ver sitio nuevo" />
 </a>
 &nbsp;
 <a href="https://escuelatecnicaderocha.webnode.es/">
-  <img src="https://img.shields.io/badge/🕰️%20Sitio%20original%20(2011)-webnode-888888?style=for-the-badge&amp;logoColor=white" alt="Ver sitio original" />
+  <img src="https://img.shields.io/badge/🕰️%20Sitio%20original%20(2011)-webnode-888888?style=for-the-badge&logoColor=white" alt="Ver sitio original" />
 </a>
 &nbsp;
 <a href="https://github.com/jhonalexandresilvasolis-ops/web-utu-rocha">
-  <img src="https://img.shields.io/badge/Repositorio-web--utu--rocha-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositorio en GitHub" />
+  <img src="https://img.shields.io/badge/Repositorio-web--utu--rocha-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio en GitHub" />
+</a>
+
+</div>
+
+---
+
+### 🌴 Generador QR Personalizado
+
+Generador de QR artístico en Python. En lugar de un QR genérico en blanco y negro, produce imágenes con colores personalizables, palmeras Butiá dibujadas con geometría vectorial, logo incrustado en el centro y verificación automática de contraste WCAG 2.0.
+
+El desafío fue lograr que el QR sea visualmente distintivo y siga siendo escaneable — usando corrección de error nivel H y controlando la opacidad de cada capa decorativa.
+
+<div align="center">
+
+<a href="https://github.com/jhonalexandresilvasolis-ops/qr-personalizado">
+  <img src="https://img.shields.io/badge/Repositorio-qr--personalizado-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio en GitHub" />
 </a>
 
 </div>
@@ -89,7 +105,7 @@ Software contable que busca generar **informes automáticos del patrimonio e inf
 <div align="center">
 
 <a href="https://github.com/jhonalexandresilvasolis-ops/Konta">
-  <img src="https://img.shields.io/badge/Ver%20repositorio-Konta-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Konta en GitHub" />
+  <img src="https://img.shields.io/badge/Ver%20repositorio-Konta-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Konta en GitHub" />
 </a>
 
 </div>
@@ -102,7 +118,7 @@ Software contable que busca generar **informes automáticos del patrimonio e inf
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jhonalexandresilvasolis-ops&amp;theme=midnight-purple&amp;hide_border=true&amp;locale=es&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=jhonalexandresilvasolis-ops&theme=midnight-purple&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -110,8 +126,6 @@ Software contable que busca generar **informes automáticos del patrimonio e inf
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 </div>
