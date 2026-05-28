@@ -16,7 +16,7 @@
 
 ## 👋 Hola, soy Jhon
 
-Soy desarrollador web en crecimiento, con base en Uruguay .  
+Soy desarrollador web en crecimiento, con base en Uruguay 🇺🇾.  
 Me enfoco en construir **interfaces web limpias y responsivas**, y en usar **Python para automatizar procesos** que resuelven problemas concretos.
 
 Todavía estoy creciendo, pero ya construyo cosas reales.
@@ -25,7 +25,7 @@ Todavía estoy creciendo, pero ya construyo cosas reales.
 jhon = {
     "actualmente":  "Aprendiendo y construyendo al mismo tiempo",
     "enfoque":      ["Interfaces web", "Python para automatizar", "Proyectos reales"],
-    "ubicación":    "Uruguay"
+    "ubicación":    "Uruguay 🇺🇾"
 }
 ```
 
@@ -56,7 +56,31 @@ jhon = {
 
 ---
 
-## 🔨 Lo que estoy construyendo
+## 🔨 Lo que he construido
+
+### 🌐 Web UTU Rocha *(proyecto personal, no oficial)*
+
+Rediseño completo del sitio web de mi institución educativa. La web original llevaba años sin actualizarse, construida con un editor limitado sin responsive ni metadatos. La rehíce desde cero con HTML, CSS y JavaScript — con foco en accesibilidad, diseño responsive y buenas prácticas de SEO.
+
+Incluye: carrusel de propuestas educativas, múltiples secciones de contenido, mapa interactivo, metadatos Open Graph y está desplegada en producción.
+
+<div align="center">
+
+<a href="https://utu-rocha.netlify.app">
+  <img src="https://img.shields.io/badge/🆕%20Sitio%20nuevo-utu--rocha.netlify.app-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Ver sitio nuevo" />
+</a>
+&nbsp;
+<a href="https://escuelatecnicaderocha.webnode.es/">
+  <img src="https://img.shields.io/badge/🕰️%20Sitio%20original%20(2011)-webnode-888888?style=for-the-badge&amp;logoColor=white" alt="Ver sitio original" />
+</a>
+&nbsp;
+<a href="https://github.com/jhonalexandresilvasolis-ops/web-utu-rocha">
+  <img src="https://img.shields.io/badge/Repositorio-web--utu--rocha-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositorio en GitHub" />
+</a>
+
+</div>
+
+---
 
 ### 📒 Konta *(en desarrollo)*
 
@@ -87,5 +111,7 @@ Software contable que busca generar **informes automáticos del patrimonio e inf
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn"/>
+
+
 
 </div>
